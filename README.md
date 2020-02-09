@@ -1,8 +1,6 @@
-# flutterwidget
+# Flutter Widget
 
-A new Flutter application.
-
-## Getting Started
+#Image Slider
 
 This project is a starting point for a Flutter application.
 
