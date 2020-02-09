@@ -44,20 +44,26 @@ Bu bölümde BottomNavigationBar ile Scaffoldumuzun Body Kısmını değiştirec
       </tr>
    </table>
 <h1>ListView Listile ve List.generate Kullanımı</h1>
-
-
-
-
-
-
-
-<a href="https://imgflip.com/gif/3ooyry"><img src="https://i.imgflip.com/3ooyry.gif" title="made at imgflip.com"/></a>
+  <table>
+      <tr>
+         <td>
+       
+- [List Generate](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/Liste/ListeYapisi.dart)
 <br>
-<br>
-
+<a href="https://imgflip.com/gif/3op815"><img src="https://i.imgflip.com/3op815.gif" title="made at imgflip.com"/></a>
+        </td>
+         <td>
+  
 - [List Separeted](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/Liste/ListeYapisi2.dart)
-<br>
-<br>
+  <br>
+<a href="https://imgflip.com/gif/3op85a"><img src="https://i.imgflip.com/3op85a.gif" title="made at imgflip.com"/></a>
+        </td>
+      </tr>
+   </table>
+
+
+
+
 <a href="https://imgflip.com/gif/3op121"><img src="https://i.imgflip.com/3op121.gif" title="made at imgflip.com"/></a>
 <br>
 
