@@ -13,5 +13,6 @@ Oluşturduğunuz yapılarda index değerine göre de işlem yapabileceğimize de
 <br>
 <br>
 Bir sonraki Slider bir tık daha gelişmiş İçerisine index'e göre bir buton ekleyip tanıtımı,Slider görünümünden çıkabilirsiniz.
+
 - [ImageSlider2](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/ImageSlider2.dart)
 
