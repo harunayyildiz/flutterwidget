@@ -12,7 +12,7 @@ final List<String> imgList = [
 final List child = map<Widget>(imgList, (index, i) {
   return SingleChildScrollView(
     child: Column(
-      children: <Widget>[
+      children: <Widget>[//
         Container(
           margin: EdgeInsets.all(5),
           child: ClipRRect(
