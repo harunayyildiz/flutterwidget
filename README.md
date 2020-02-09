@@ -39,5 +39,6 @@ Sevilen ve kullanılan bir yapı BottomNavigationBar Animasyonlu
 <br>
 <a href="https://imgflip.com/gif/3ooyry"><img src="https://i.imgflip.com/3ooyry.gif" title="made at imgflip.com"/></a>
 <br>
+<br>
 
 - [ListYapisi](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/Liste/ListeYapisi.dart)
