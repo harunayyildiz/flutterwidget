@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'GridView.dart';
+import 'GridView2.dart';
 void main()=>runApp(StartApp());
 class StartApp extends StatelessWidget {
   @override
@@ -13,7 +13,7 @@ class StartApp extends StatelessWidget {
       appBar: AppBar(
       centerTitle: true,
     title: Text("GRID YAPISI"),),
-    body: GridviewKullanim(),
+    body: Gridextend(),
       ),
     );
   }
