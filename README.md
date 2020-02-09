@@ -42,3 +42,11 @@ Sevilen ve kullanılan bir yapı BottomNavigationBar Animasyonlu
 <br>
 
 - [ListYapisi](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/Liste/ListeYapisi.dart)
+<br>
+<br>
+<a href="https://imgflip.com/gif/3op121"><img src="https://i.imgflip.com/3op121.gif" title="made at imgflip.com"/></a>
+<br>
+
+- [ListYapisi](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/Liste/ListeYapisi.dart)
+<br>
+<a href="https://imgflip.com/gif/3op121"><img src="https://i.imgflip.com/3op121.gif" title="made at imgflip.com"/></a>
