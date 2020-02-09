@@ -40,4 +40,4 @@ Sevilen ve kullanılan bir yapı BottomNavigationBar Animasyonlu
 <a href="https://imgflip.com/gif/3ooyry"><img src="https://i.imgflip.com/3ooyry.gif" title="made at imgflip.com"/></a>
 <br>
 
-- [BottomNavigationBar2](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/BottomNavigation/BottomNavigationBar2.dart)
+- [ListYapisi](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/Liste/ListeYapisi.dart)
