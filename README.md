@@ -30,7 +30,7 @@ Bu bölümde BottomNavigationBar ile Scaffoldumuzun Body Kısmını değiştirec
 Sevilen ve kullanılan bir yapı BottomNavigationBar Animasyonlu
 <br>
 
-- [ImageSlider2](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/ImageSlider2.dart)
+- [BottomNavigationBar2](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/BottomNavigation/BottomNavigationBar2.dart)
 <br>
 <br>
 <a href="https://imgflip.com/gif/3oosq9"><img src="https://i.imgflip.com/3oosq9.gif" title="made at imgflip.com"/></a>
