@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutterwidget/BottomNavigation/BottomNavigationBar2.dart';
+import 'package:flutterwidget/Liste/ListeYapisi.dart';
 void main()=>runApp(StartApp());
 class StartApp extends StatelessWidget {
   @override
@@ -9,7 +9,12 @@ class StartApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.black,
       ),
-      home:BottomNavBar(),
+      home:Scaffold(
+      appBar: AppBar(
+      centerTitle: true,
+    title: Text("LIST GENERATE"),),
+    body: ListeYapisi(),
+      ),
     );
   }
 }
