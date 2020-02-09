@@ -59,17 +59,20 @@ Bu bölümde BottomNavigationBar ile Scaffoldumuzun Body Kısmını değiştirec
         </td>
       </tr>
    </table>
-
-
-
-
-<a href="https://imgflip.com/gif/3op121"><img src="https://i.imgflip.com/3op121.gif" title="made at imgflip.com"/></a>
-<br>
-
+ <h1>GridView- GridView.builder kullanımı</h1>
+   <table>
+      <tr>
+         <td>
+       
 - [GridView](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/GridView.dart)
 <br>
-<a href="https://imgflip.com/gif/3op3kw"><img src="https://i.imgflip.com/3op3kw.gif" title="made at imgflip.com"/></a>
-<br>
-<br>
-
-
+<a href="https://imgflip.com/gif/3op8zg"><img src="https://i.imgflip.com/3op8zg.gif" title="made at imgflip.com"/></a>
+        </td>
+         <td>
+  
+  - [GridView.Builder](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/GridView2.dart)
+  <br>
+<a href="https://imgflip.com/gif/3op8zg"><img src="https://i.imgflip.com/3op8zg.gif" title="made at imgflip.com"/></a>
+        </td>
+      </tr>
+   </table>
