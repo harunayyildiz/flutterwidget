@@ -8,5 +8,5 @@ Oluşturduğunuz yapılarda index değerine göre de işlem yapabileceğimize de
 
 
 - [ImageSlider](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/ImageSlider.dart)
--
+<br>
 <a href="https://imgflip.com/gif/3omsa1"><img src="https://i.imgflip.com/3omsa1.gif" title="made at imgflip.com"/></a>
