@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'Liste/ListeYapisi2.dart';
+import 'GridView.dart';
 void main()=>runApp(StartApp());
 class StartApp extends StatelessWidget {
   @override
@@ -13,8 +12,8 @@ class StartApp extends StatelessWidget {
       home:Scaffold(
       appBar: AppBar(
       centerTitle: true,
-    title: Text("LIST SEPARATED"),),
-    body: etkin_Liste(),
+    title: Text("GRID YAPISI"),),
+    body: GridviewKullanim(),
       ),
     );
   }
