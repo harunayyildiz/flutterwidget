@@ -55,7 +55,7 @@ Bu bölümde BottomNavigationBar ile Scaffoldumuzun Body Kısmını değiştirec
          <td>
   
 - [List Separeted](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/Liste/ListeYapisi2.dart)
-  <br>
+<br>
 <a href="https://imgflip.com/gif/3op85a"><img src="https://i.imgflip.com/3op85a.gif" title="made at imgflip.com"/></a>
         </td>
       </tr>
