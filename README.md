@@ -18,3 +18,8 @@ Bir sonraki Slider bir tık daha gelişmiş İçerisine index'e göre bir buton 
 <br>
 <br>
 <a href="https://imgflip.com/gif/3omwck"><img src="https://i.imgflip.com/3omwck.gif" title="made at imgflip.com"/></a>
+<br>
+# Bottom NavigationBar
+Bu bölümde BottomNavigationBar ile Scaffoldumuzun Body Kısmını değiştirecek bir yapı hazırladım.Bazı mobil uygulamalarda AppBar kısmı sabit kalabilmelidir.Çünkü her sayfa için aynıdır ve kullanıcağımız widget sayısını da indirgemiş oluyoruz.Tabiki bu durumu farklı yapılar kullanarak da yapabilirsiniz.TabBar da buna bir örnek olabilir.Daha çok animasyonlu olanlar tercih edilse de basit bir algoritmayı da göz önünde tutmak gerekiyor.
+<br>
+<a href="https://imgflip.com/gif/3ooo12"><img src="https://i.imgflip.com/3ooo12.gif" title="made at imgflip.com"/></a>
