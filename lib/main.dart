@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'ImageSlider2.dart';
+import 'BottomNavigation/BottomNavigation.dart';
 void main()=>runApp(StartApp());
 class StartApp extends StatelessWidget {
   @override
@@ -9,13 +9,17 @@ class StartApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.black,
       ),
-      home: Scaffold(
-        appBar: AppBar(
-          centerTitle: true,
-          title: Text("IMAGE SLİDER"),
-        ),
-        body: MekanScreen(),
-      ),
+      home:HomeState(),
     );
   }
 }
+
+
+//ImageSlider için Scaffold Sabit
+//Scaffold(
+//appBar: AppBar(
+//centerTitle: true,
+//title: Text("IMAGE SLİDER"),
+//),
+//body: MekanScreen(),
+//),
