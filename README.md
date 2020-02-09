@@ -20,30 +20,35 @@ Oluşturduğunuz yapılarda index değerine göre de işlem yapabileceğimize de
 <a href="https://imgflip.com/gif/3op76i"><img src="https://i.imgflip.com/3op76i.gif" title="made at imgflip.com"/></a>
         </td>
       </tr>
-      <tr>
-         <td>satır 2, sütun 1</td>
-         <td>satır 2, sütun 2</td>
-      </tr>
    </table>
 
 <h1>Bottom NavigationBar</h1>
 <br>
 Bu bölümde BottomNavigationBar ile Scaffoldumuzun Body Kısmını değiştirecek bir yapı hazırladım.Bazı mobil uygulamalarda AppBar kısmı sabit kalabilmelidir.Çünkü her sayfa için aynıdır ve kullanıcağımız widget sayısını da indirgemiş oluyoruz.Tabiki bu durumu farklı yapılar kullanarak da yapabilirsiniz.TabBar da buna bir örnek olabilir.Daha çok animasyonlu olanlar tercih edilse de basit bir algoritmayı da göz önünde tutmak gerekiyor.
+  <table>
+      <tr>
+         <td>
+       
+- [BottomNavigationBar](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/BottomNavigation/BottomNavigation.dart)
 <br>
-<br>
-<a href="https://imgflip.com/gif/3ooo12"><img src="https://i.imgflip.com/3ooo12.gif" title="made at imgflip.com"/></a>
-<br>
-<br>
-Sevilen ve kullanılan bir yapı BottomNavigationBar Animasyonlu
-<br>
-
+<a href="https://imgflip.com/gif/3op7d8"><img src="https://i.imgflip.com/3op7d8.gif" title="made at imgflip.com"/></a>
+        </td>
+         <td>
+  
 - [BottomNavigationBar2](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/BottomNavigation/BottomNavigationBar2.dart)
-<br>
-<br>
-<a href="https://imgflip.com/gif/3oosq9"><img src="https://i.imgflip.com/3oosq9.gif" title="made at imgflip.com"/></a>
-<br>
+  <br>
+<a href="https://imgflip.com/gif/3op7of"><img src="https://i.imgflip.com/3op7of.gif" title="made at imgflip.com"/></a>
+        </td>
+      </tr>
+   </table>
 <h1>ListView Listile ve List.generate Kullanımı</h1>
-<br>
+
+
+
+
+
+
+
 <a href="https://imgflip.com/gif/3ooyry"><img src="https://i.imgflip.com/3ooyry.gif" title="made at imgflip.com"/></a>
 <br>
 <br>
