@@ -7,7 +7,7 @@ Oluşturduğunuz yapılarda index değerine göre de işlem yapabileceğimize de
 İlk etapta sadece resimleri barındıran bir Slider yapalım.Resimleri internet sitesinden çekip koymayı tercih ettim.Sizin tercihleriniz arasında --assets klasörüne eklemek var ise sadece küçük bir yapıya müdahale edebilirsiniz.Burdaki önemli kısım yapınızı StatefullClass'ı ile yapmak olucaktır.Çünkü programın herhangi bir yerinde yaptığınız değişiklikte etkilenecek başka bir widget veya yapınız olabilir.
 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [ImageSlider](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/ImageSlider.dart)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 For help getting started with Flutter, view our
