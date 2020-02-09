@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutterwidget/Liste/ListeYapisi.dart';
+
+import 'Liste/ListeYapisi2.dart';
 void main()=>runApp(StartApp());
 class StartApp extends StatelessWidget {
   @override
@@ -12,8 +13,8 @@ class StartApp extends StatelessWidget {
       home:Scaffold(
       appBar: AppBar(
       centerTitle: true,
-    title: Text("LIST GENERATE"),),
-    body: ListeYapisi(),
+    title: Text("LIST SEPARATED"),),
+    body: etkin_Liste(),
       ),
     );
   }
