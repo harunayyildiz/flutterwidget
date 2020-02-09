@@ -34,7 +34,7 @@ Bu bölümde BottomNavigationBar ile Scaffoldumuzun Body Kısmını değiştirec
 <a href="https://imgflip.com/gif/3op7d8"><img src="https://i.imgflip.com/3op7d8.gif" title="made at imgflip.com"/></a>
         </td>
          <td>
- <br> 
+  
 - [BottomNavigationBar2](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/BottomNavigation/BottomNavigationBar2.dart)
   <br>
 <a href="https://imgflip.com/gif/3op7of"><img src="https://i.imgflip.com/3op7of.gif" title="made at imgflip.com"/></a>
