@@ -8,8 +8,6 @@ Oluşturduğunuz yapılarda index değerine göre de işlem yapabileceğimize de
 
 
 - [ImageSlider](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/ImageSlider.dart)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Şimdi Bu projemizin işte Görseli:
+<a href="https://imgflip.com/gif/3omsa1"><img src="https://i.imgflip.com/3omsa1.gif" title="made at imgflip.com"/></a>
