@@ -15,4 +15,6 @@ Oluşturduğunuz yapılarda index değerine göre de işlem yapabileceğimize de
 Bir sonraki Slider bir tık daha gelişmiş İçerisine index'e göre bir buton ekleyip tanıtımı,Slider görünümünden çıkabilirsiniz.
 
 - [ImageSlider2](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/ImageSlider2.dart)
-
+<br>
+<br>
+<a href="https://imgflip.com/gif/3omwck"><img src="https://i.imgflip.com/3omwck.gif" title="made at imgflip.com"/></a>
