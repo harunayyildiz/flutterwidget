@@ -51,7 +51,7 @@ class _MekanScreenState extends State<MekanScreen> {
         padding: EdgeInsets.all(15),
         child: CarouselSlider(
           height:600,
-          items: child,
+          items: child, //Liste
           autoPlay: false,
           enlargeCenterPage: true,
           viewportFraction: 0.9, //Kenarındaki resimlerin gözükmesi arasındaki mesafe kontrolü
