@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'BottomNavigation/BottomNavigation.dart';
+import 'package:flutterwidget/BottomNavigation/BottomNavigationBar2.dart';
 void main()=>runApp(StartApp());
 class StartApp extends StatelessWidget {
   @override
@@ -9,7 +9,7 @@ class StartApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.black,
       ),
-      home:HomeState(),
+      home:BottomNavBar(),
     );
   }
 }
