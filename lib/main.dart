@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'ImageSlider.dart';
+import 'ImageSlider2.dart';
 void main()=>runApp(StartApp());
 class StartApp extends StatelessWidget {
   @override
