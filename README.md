@@ -78,9 +78,7 @@ Bu bölümde BottomNavigationBar ile Scaffoldumuzun Body Kısmını değiştirec
    
    
    
-   
-   
-   
+
 <h1> Basit Widgetlar </h1>
    <table>
       <tr>
@@ -97,16 +95,15 @@ Bu bölümde BottomNavigationBar ile Scaffoldumuzun Body Kısmını değiştirec
 <a href="https://imgflip.com/gif/3oph25"><img src="https://i.imgflip.com/3oph25.gif" title="made at imgflip.com"/></a>
         </td>
       </tr>
-            <tr>
-         <td>
-       
+       <tr>
+       <td>
 - [CheckBox](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/Checkbox.dart)
 <br>
 <a href="https://imgflip.com/gif/3oph5n"><img src="https://i.imgflip.com/3oph5n.gif" title="made at imgflip.com"/></a>
         </td>
          <td>
-  
-  - [SwitchListTile](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/SwitchListTile.dart)
+           
+           - [SwitchListTile](https://github.com/harunayyildiz/flutterwidget/blob/master/lib/SwitchListTile.dart)
   <br>
 <a href="https://imgflip.com/gif/3oph94"><img src="https://i.imgflip.com/3oph94.gif" title="made at imgflip.com"/></a>
         </td>
