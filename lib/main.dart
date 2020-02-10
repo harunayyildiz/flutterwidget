@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'GridView2.dart';
+import 'SwitchListTile.dart';
 void main()=>runApp(StartApp());
 class StartApp extends StatelessWidget {
   @override
@@ -9,16 +9,10 @@ class StartApp extends StatelessWidget {
       theme: ThemeData(
         primaryColor: Colors.black,
       ),
-      home:Scaffold(
-      appBar: AppBar(
-      centerTitle: true,
-    title: Text("GRID YAPISI"),),
-    body: Gridextend(),
-      ),
+      home:Switchlisttile(),
     );
   }
 }
-
 
 //ImageSlider için Scaffold Sabit
 //Scaffold(
