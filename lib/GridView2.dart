@@ -33,7 +33,7 @@ class Gridextend extends StatelessWidget {
             margin: EdgeInsets.all(10.0),
             child: Text(
               "Code ${index + 1}",
-              style: TextStyle(color: Colors.white60),
+              style: TextStyle(color: Colors.white,fontSize: 25),
             ),
           ),
           onTap: (){

@@ -1,5 +1,14 @@
 import 'package:flutter/material.dart';
-import 'SwitchListTile.dart';
+import 'Checkbox.dart';
+import 'GridView.dart';
+import 'GridView2.dart';
+import 'ImageSlider.dart';
+import 'ImageSlider2.dart';
+import 'Liste/ListeYapisi2.dart';
+import 'RadioList.dart';
+import 'Slider.dart';
+import 'SplashScreen/SplashScreen.dart';
+
 void main()=>runApp(StartApp());
 class StartApp extends StatelessWidget {
   @override
@@ -8,8 +17,10 @@ class StartApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: Colors.black,
+        accentColor: Colors.grey,
+        //loading color
       ),
-      home:Switchlisttile(),
+      home:etkin_Liste(),
     );
   }
 }

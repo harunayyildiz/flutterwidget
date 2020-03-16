@@ -36,12 +36,12 @@ List<T> map<T>(List list, Function handler) {
   return result;
 }
 
-class MekanScreen extends StatefulWidget {
+class ImageSlider extends StatefulWidget {
   @override
-  _MekanScreenState createState() => _MekanScreenState();
+  _ImageSliderState createState() => _ImageSliderState();
 }
 
-class _MekanScreenState extends State<MekanScreen> {
+class _ImageSliderState extends State<ImageSlider> {
   @override
   Widget build(BuildContext context) {
     return Container(

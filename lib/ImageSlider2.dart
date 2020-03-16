@@ -37,44 +37,46 @@ List<T> map<T>(List list, Function handler) {
   return result;
 }
 
-class MekanScreen extends StatefulWidget {
+class ImageSlider2 extends StatefulWidget {
   @override
-  _MekanScreenState createState() => _MekanScreenState();
+  _ImageSlider2State createState() => _ImageSlider2State();
 }
 
-class _MekanScreenState extends State<MekanScreen> {
+class _ImageSlider2State extends State<ImageSlider2> {
   @override
   Widget build(BuildContext context) {
-    return Container(
-      color: Colors.black,
-      height: double.infinity, //En dıştaki containerin tüm alana yayılması
-      child: Padding(
-          padding: EdgeInsets.all(15),
-          child: CarouselSlider.builder(
-              height: 600,
-              autoPlay: false,
-              enlargeCenterPage: true,
-              viewportFraction: 0.9, //Kenarındaki resimlerin gözükmesi arasındaki mesafe kontrolü
-              aspectRatio: 2.0, //Kenarındaki resimlerin konumları kaydırmadaki konum
-              itemCount: child.length,
-              itemBuilder: (BuildContext context, int index) {
-                debugPrint(index.toString());
-                return SingleChildScrollView(
-                  child: Column(
-                    children: <Widget>[
-                      InkWell(
-                        splashColor: Colors.white,
-                        onTap:(){
-                          debugPrint("dsf");
-                          },
-                        child:  child[index],),
+    return Scaffold(
+      body: Container(
+        color: Colors.black,
+        height: double.infinity, //En dıştaki containerin tüm alana yayılması
+        child: Padding(
+            padding: EdgeInsets.all(15),
+            child: CarouselSlider.builder(
+                height: 600,
+                autoPlay: false,
+                enlargeCenterPage: true,
+                viewportFraction: 0.9, //Kenarındaki resimlerin gözükmesi arasındaki mesafe kontrolü
+                aspectRatio: 2.0, //Kenarındaki resimlerin konumları kaydırmadaki konum
+                itemCount: child.length,
+                itemBuilder: (BuildContext context, int index) {
+                  debugPrint(index.toString());
+                  return SingleChildScrollView(
+                    child: Column(
+                      children: <Widget>[
+                        InkWell(
+                          splashColor: Colors.white,
+                          onTap:(){
+                            debugPrint("dsf");
+                            },
+                          child:  child[index],),
 
-                      index == 2 ? butongetir() : Container(), //Fotograflar
-                      //index 0 dan başlar aslanım
-                    ],
-                  ),
-                );
-              })),
+                        index == 2 ? butongetir() : Container(), //Fotograflar
+                        //index 0 dan başlar aslanım
+                      ],
+                    ),
+                  );
+                })),
+      ),
     );
   }
 
